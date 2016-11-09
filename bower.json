@@ -1,0 +1,22 @@
+{
+  "name": "tiff.js",
+  "homepage": "",
+  "authors": [
+    "(Seiichi KONDO <seikichi@kmc.gr.jp>)"
+  ],
+  "description": "tiff.js is a port of LibTIFF by compiling the LibTIFF C code with Emscripten.",
+  "main": "tiff.min.js",
+  "keywords": [
+    "tiff.js",
+    "jpeg"
+  ],
+  "license": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
